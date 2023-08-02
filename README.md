@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @melina-gallotto
-- 👀 I’m interested in digital tools and project management
-- 🌱 I’m currently learning web development at Certified Tech Developer (Digital House)
+- 🌱 I’m currently learning software development at Certified Tech Developer (Digital House)
 - 📫 How to reach me: meli.gallotto@gmail.com
 
 <!---
